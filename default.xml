@@ -275,7 +275,7 @@
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
-  <project path="kernel/rpi/raspberrypi" name="aharter/razdroid-kernel" />
+  <project path="kernel/rpi/raspberrypi" name="aharter/linux" />
 
   <project path="android" name="aharter/android" />
 </manifest>
