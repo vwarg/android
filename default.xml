@@ -34,7 +34,7 @@
   <project path="device/ti/panda" name="device/ti/panda" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="device/rpi/raspberrypi" name="aharter/android_device_raspberrypi" />
   <project path="device/rpi/raspberrypi/lib" name="aharter/userland" />
-  <project path="device/rpi/raspberrypi/lib/gralloc_brcm" name="vwarg/gralloc_brcm" />
+  <project path="device/rpi/raspberrypi/lib/gralloc_brcm" name="vwarg/gralloc_brcm" revision="refs/heads/master" />
   <project path="device/rpi/raspberrypi/lib/hwcomposer" name="aharter/razdroid-hwcomposer" />
   <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
