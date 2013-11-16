@@ -277,7 +277,7 @@
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
-  <project path="kernel/rpi/raspberrypi" name="Razdroid/razdroid-kernel" />
+  <project path="kernel/rpi/raspberrypi" name="Razdroid/razdroid-kernel" revision="refs/heads/rpi-3.10.y"/>
 
   <project path="android" name="vwarg/android" />
 </manifest>
